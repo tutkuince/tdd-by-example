@@ -1,0 +1,5 @@
+### Technical Requirements For Report ###
+- Need to be able to add amounts in two different currencies and
+convert result given a set of exchange rates.
+- Need to be able to multiply an amount by a number (number of shares) and
+receive an amount.
